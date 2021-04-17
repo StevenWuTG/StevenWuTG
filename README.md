@@ -14,3 +14,20 @@ In my free time I enjoy gaming with friends, hiking and enjoying all the wonderf
   <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
 </p>
+<br>
+</br>
+
+# Projects
+
+**Game Room** [Demo](https://www.youtube.com/watch?v=x1XqqEM3NuE) | [Frontend Repo](https://github.com/StevenWuTG/gameroom-frontend) | [Backend Repo](https://github.com/StevenWuTG/gameroom-backend)
+
+A webapp built for gamers to check out the latest games and read/write articles about games and related items. Built using React/Redux for Frontend and a Rails PostgreSQL Backend.
+
+**Landmarkers** [Demo](https://www.youtube.com/watch?v=81gCyDGc3vg) | [Frontend Repo](https://github.com/StevenWuTG/landmarkers-frontend) | [Backend Repo](https://github.com/StevenWuTG/landmarkers-backend)
+
+A webapp built during the pandemic for sharing our old favorite locations/landmarks with friends and family. Built using Vanilla JS for Frontend and a Rails PostgreSQL Backend.
+
+**Jokes On Us** [Demo](https://www.youtube.com/watch?v=d-inxohHvKk) | [Repo](https://github.com/StevenWuTG/jokes_on_us) 
+
+A social forum for up and coming comedians to book gigs and build their network.
+Built using Rails as a Full Stack, PostgreSQL for backend server and used Ruby ERB to display HTML to the Frontend. 
