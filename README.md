@@ -4,7 +4,8 @@ Prior to the covid-19 pandemic, I have had the pleasure to manage one of the mos
 
 In my free time I enjoy gaming with friends, hiking and enjoying all the wonderful restaurants the world has to offer.
 <br></br>
-<a href="https://www.linkedin.com/in/stevenwubc">LinkedIn</a>,<a href="https://stevenwu91.medium.com/">Blogs</a>
+<a href="https://www.linkedin.com/in/stevenwubc">LinkedIn</a> | <a href="https://stevenwu91.medium.com/">Blogs</a>
+<a href="https://stevenwu.netlify.app/">Personal Website</a>
 
 ### Skills
 <p align="left">
