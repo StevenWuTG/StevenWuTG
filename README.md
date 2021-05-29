@@ -6,6 +6,8 @@ In my free time I enjoy gaming with friends, hiking and enjoying all the wonderf
 <br></br>
 <a href="https://www.linkedin.com/in/stevenwubc">LinkedIn</a>
 
+<a href="https://stevenwu91.medium.com/">Blogs</a>
+
 ### Skills
 <p align="left">
   <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
