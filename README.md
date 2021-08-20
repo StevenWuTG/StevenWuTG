@@ -22,6 +22,14 @@ In my free time I enjoy gaming with friends, hiking and enjoying all the wonderf
 
 # Projects
 
+**BockChoy Arcade** [Demo](https://stevens-arcade.herokuapp.com/) | [Frontend Repo](https://github.com/StevenWuTG/pong-game-js)
+
+Challenging myself by recreating my favorite games using only HTML, JS, CSS
+
+**Portfolio Site** [Demo](https://stevenwu.netlify.app/) | [Frontend Repo](https://github.com/StevenWuTG/SPA-react-portfolio) 
+
+Working on a SPA personal website using React JS to host demos.
+
 **Game Room** [Demo](https://www.youtube.com/watch?v=x1XqqEM3NuE) | [Frontend Repo](https://github.com/StevenWuTG/gameroom-frontend) | [Backend Repo](https://github.com/StevenWuTG/gameroom-backend)
 
 A webapp built for gamers to check out the latest games and read/write articles about games and related items. Built using React/Redux for Frontend and a Rails PostgreSQL Backend.
